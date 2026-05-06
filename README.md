@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/pravach/leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
