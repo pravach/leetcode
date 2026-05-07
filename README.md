@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pravach/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/pravach/leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -24,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
