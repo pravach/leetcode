@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pravach/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -36,4 +37,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/pravach/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
