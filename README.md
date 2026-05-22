@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/pravach/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pravach/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
