@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/pravach/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/pravach/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pravach/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/pravach/leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Greedy
