@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/pravach/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/pravach/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/pravach/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
