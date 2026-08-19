@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/pravach/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/pravach/leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -54,10 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
