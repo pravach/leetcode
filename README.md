@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/pravach/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/pravach/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/pravach/leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
