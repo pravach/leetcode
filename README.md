@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/pravach/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/pravach/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/pravach/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/pravach/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/pravach/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/pravach/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pravach/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/pravach/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/pravach/leetcode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/pravach/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Tree
