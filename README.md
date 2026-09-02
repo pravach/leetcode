@@ -160,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
