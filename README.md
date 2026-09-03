@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/pravach/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/pravach/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/pravach/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -164,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/pravach/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
