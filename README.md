@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pravach/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0704-binary-search](https://github.com/pravach/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/pravach/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/pravach/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0704-binary-search](https://github.com/pravach/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
