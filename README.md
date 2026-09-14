@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0607-sales-person](https://github.com/pravach/leetcode/tree/main/0607-sales-person/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
