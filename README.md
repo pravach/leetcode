@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/pravach/leetcode/tree/main/0704-binary-search/) | Easy |
+| [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pravach/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/pravach/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/pravach/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/pravach/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pravach/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pravach/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pravach/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
