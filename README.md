@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/pravach/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0607-sales-person](https://github.com/pravach/leetcode/tree/main/0607-sales-person/) | Easy |
 ## Interactive
