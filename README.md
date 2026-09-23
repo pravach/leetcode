@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/pravach/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/pravach/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pravach/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/pravach/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/pravach/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/pravach/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/pravach/leetcode/tree/main/0520-detect-capital/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pravach/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pravach/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/pravach/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pravach/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pravach/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pravach/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/pravach/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Recursion
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/pravach/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pravach/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/pravach/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
