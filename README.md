@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/pravach/leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/pravach/leetcode/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/pravach/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
