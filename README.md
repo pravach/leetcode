@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pravach/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/pravach/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pravach/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/pravach/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pravach/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pravach/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pravach/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pravach/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/pravach/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/pravach/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Recursion
