@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/pravach/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/pravach/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/pravach/leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/pravach/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/pravach/leetcode/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/pravach/leetcode/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/pravach/leetcode/tree/main/0619-biggest-single-number/) | Easy |
