@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/pravach/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/pravach/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/pravach/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/pravach/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/pravach/leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1179-reformat-department-table](https://github.com/pravach/leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pravach/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
